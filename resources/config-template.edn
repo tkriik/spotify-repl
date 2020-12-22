@@ -1,0 +1,25 @@
+{:spotify-accounts-url
+ "https://accounts.spotify.com"
+
+ :spotify-api-url
+ "https://api.spotify.com"
+
+ :browser-command
+ "sensible-browser"
+
+ :client-id
+ "XXX" ; TODO: fill
+
+ :client-secret
+ "XXX" ; TODO: fill
+
+ :redirect-uri
+ "https://example.com/callback"
+
+ :scope
+ ["playlist-read-private"
+  "playlist-read-collaborative"
+  "playlist-modify-public"
+  "playlist-modify-private"
+  "user-follow-read"
+  "user-follow-modify"]}
